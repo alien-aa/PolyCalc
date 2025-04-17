@@ -8,23 +8,23 @@ This project was created using `flex` and `bison` for lexical and syntactical an
 
 ## Repository Structure
 
+├── Makefile # Build instructions
+
 ├── README.md # This file
 
-├── Makefile # Build instructions
+├── correct.poly # Example test file with valid polynomial expressions
 
 ├── lexer.l # flex definition file for lexical analysis
 
 ├── parser.y # bison definition file for syntactical analysis
 
-├── polynomial.h # Header file for polynomial data structures and function declarations
-
 ├── polynomial.c # Source file for polynomial operations and interpreter logic
 
-├── correct.poly # Example test file with valid polynomial expressions
+├── polynomial.h # Header file for polynomial data structures and function declarations
 
-├── test.poly # Another example test file
+├── report.pdf # Report documenting the project design and implementation
 
-└── report.pdf # Report documenting the project design and implementation
+└── test.poly # Another example test file
 
 
 *   **`README.md`**: This file, providing an overview of the project.
