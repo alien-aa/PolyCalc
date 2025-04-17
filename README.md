@@ -1,4 +1,4 @@
-# PolyLang: Polynomial Expression Interpreter
+# PolyCalc: Polynomial Expression Interpreter
 
 ## Description
 
